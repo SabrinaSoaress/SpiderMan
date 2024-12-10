@@ -33,4 +33,3 @@ O site é composto por 4 seções principais:
 
   ## 
 ![image-03](https://github.com/user-attachments/assets/98babc9b-d71a-48b0-922a-4bf141f08561)
-https://sabrinasoaress.github.io/SpiderMan/
